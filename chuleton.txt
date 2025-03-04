@@ -1,0 +1,38 @@
+
+	------------------
+	COMANDOS GENERALES
+	------------------
+	
+	mkdir : Crear directorio
+	ls : Listar archivos
+	cd : Ir a directorio
+	cd Documentos/Cur*/ClaseX : Ir directamente a directorio de clase x
+	cd .. : Volver de directorio
+	nano nombredeltexto.txt : Crear archivo .txt
+	source bin/activate : Entrar en espacio aislado de bin --> (carpeta)nicolasagudo@nicolas
+	
+	
+	------------
+	COMANDOS GIT
+	------------
+	
+	git add : 
+	git commit -m "Nombre del commit" : 
+	git push origin main : 
+	git clone (repositorio ssh) : 
+	
+	
+	---------------
+	COMANDOS PYTHON
+	---------------
+	
+	python3 -m venv "clase0" : Crear carpeta python (hay que verificar "bin")
+	
+	
+	----------------
+	COMANDOS JUPYTER
+	----------------
+	
+	sudo apt install jupyter-core : Instalar jupyter
+	jupyter notebook : Abrir jupyter
+	pip install notebook : Instalar notebook
